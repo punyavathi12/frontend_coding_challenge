@@ -1,0 +1,52 @@
+.books-container {
+    padding: 20px;
+  }
+  
+  .add-book-form {
+    margin-bottom: 20px;
+  }
+  
+  .add-book-form input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .add-book-form button {
+    padding: 5px 10px;
+  }
+  
+  .books-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .book-card {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    width: 200px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .book-card h3 {
+    margin: 0;
+  }
+  
+  .book-card p {
+    margin: 5px 0;
+  }
+  
+  .book-card button {
+    background: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .book-card button:hover {
+    background: #ff1a1a;
+  }
+  

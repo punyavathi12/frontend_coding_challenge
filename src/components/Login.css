@@ -1,0 +1,16 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #8097a8; /* Background color */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(130, 32, 32, 0.1); /* Box shadow */
+  }
+  .login-image {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px; /* Add some space below the image */
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
